@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">firehub</string>
+    <string name="app_web_path">com.example.kyrylo.firehub</string>
+    <string name="twitter_handle">HFD_Incidents</string>
+    <string name="twitter_address_error">This address is invalid!</string>
+    <string name="twitter_consumer_key" translatable="false">INSERT-TOKEN</string>
+    <string name="twitter_consumer_secret" translatable="false">INSERT-TOKEN</string>
+    <string name="twitter_access_token" translatable="false">INSERT-TOKEN</string>
+    <string name="twitter_access_token_secret" translatable="false">INSERT-TOKEN</string>
+    <string name="mapbox_access_token" translatable="false">INSERT-TOKEN</string>
+    <string name="user_location_permission">This app needs location permissions.</string>
+</resources>
